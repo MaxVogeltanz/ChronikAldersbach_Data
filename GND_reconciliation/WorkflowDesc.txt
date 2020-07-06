@@ -1,0 +1,9 @@
+1) TEI -> CSV
+2) CSV -> OpenRefine
+3) GND API in OpenRefine
+4) Reconciliation in OpenRefine
+5) Matching Cells
+6) Add column from reconciliated column (GND-Nummer)
+7) export CSV + project
+8) CSV -> XML
+9) XML->XSLT->TEI(Aldersbach)

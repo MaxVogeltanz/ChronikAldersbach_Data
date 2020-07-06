@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--betrifft die Digitale Edition der Chronik von Aldersbach: 
+Ergebnis der automatischen Konvertierung der bereits mit der GND abgestimmten (reconciliation; OpenRefine) CSV-Datei zu XML. 
+Diese Datei wird in die Datei "identityTransform_V1-2_Aldersbach.xsl" eingebunden, um in der Datei "aled.xml" ausgezeichneten Personen eine GND-Nummer zuzuweisen.-->
+<root>
+  <row>
+    <ID>CaesatiN</ID>
+    <Name> Caesati</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>HolkhenN</ID>
+    <Name> Holkhen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>HorstN</ID>
+    <Name> Horst</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>KarffN</ID>
+    <Name> Karff</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>LohausenN</ID>
+    <Name>Calchum, Wilhelm von</Name>
+    <GND-Nummer>104348348</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>RaamelingN</ID>
+    <Name> Raameling</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Bote</Rolle>
+  </row>
+  <row>
+    <ID>ReinerN</ID>
+    <Name> Reiner</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Nonne</Rolle>
+  </row>
+  <row>
+    <ID>RoßsteinN</ID>
+    <Name> Roßstein</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>SalsN</ID>
+    <Name> Sals</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldzeugmeister</Rolle>
+  </row>
+  <row>
+    <ID>SpänigerN</ID>
+    <Name> Späniger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Kämmerer</Rolle>
+  </row>
+  <row>
+    <ID>WeitbergerN</ID>
+    <Name> Weitberger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>FeltzN</ID>
+    <Name> von Feltz</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>NeuhausN</ID>
+    <Name> von Neuhaus</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>RantzauN</ID>
+    <Name> von Rantzau</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>WartenbergN</ID>
+    <Name> von Wartenberg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>AchatiusF</ID>
+    <Name>Achatius </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>TrzkaAE</ID>
+    <Name>Adam Erdmann Trzka von Leipa
+
+http://d-nb.info/gnd/136202578</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>AdelhardisB</ID>
+    <Name>Adelhardis von Bogen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Gräfin</Rolle>
+  </row>
+  <row>
+    <ID>AdolfSHG</ID>
+    <Name>Adolf von Schleswig-Holstein-Gottorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>EnkevortA</ID>
+    <Name>Enkevort, Adrian von</Name>
+    <GND-Nummer>135909317</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>AgnesU</ID>
+    <Name>Agnes, Ungarn, Königin</Name>
+    <GND-Nummer>122191447</GND-Nummer>
+    <Rolle>Königin</Rolle>
+  </row>
+  <row>
+    <ID>AlbertII</ID>
+    <Name>Albert </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>AlbertI</ID>
+    <Name>Albert </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HungerA</ID>
+    <Name>Hunger, Albert</Name>
+    <GND-Nummer>100295770</GND-Nummer>
+    <Rolle>Professor</Rolle>
+  </row>
+  <row>
+    <ID>NußbergerA</ID>
+    <Name>Albert Nußberger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>AlbertA</ID>
+    <Name>Albert von Anfeld</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>BruayAG</ID>
+    <Name>Albert Gaston Spinola Graf von Bruay</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>AlbrechtI</ID>
+    <Name>Albrecht I., Bayern, Herzog</Name>
+    <GND-Nummer>123437849</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>AlbrechtII</ID>
+    <Name>Albrecht II., Österreich, Herzog</Name>
+    <GND-Nummer>118848399</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>AlbrechtIV</ID>
+    <Name>Albrecht IV., Bayern, Herzog</Name>
+    <GND-Nummer>118644327</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>AlbrechtVII</ID>
+    <Name>Albrecht VII
+
+ 	http://d-nb.info/gnd/11864436X</Name>
+    <GND-Nummer>11864436X</GND-Nummer>
+    <Rolle>Erzherzog</Rolle>
+  </row>
+  <row>
+    <ID>WallensteinA</ID>
+    <Name>Albrecht, Friedland, Herzog</Name>
+    <GND-Nummer>118628755</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>AlexanderN</ID>
+    <Name>Alexander </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Probst</Rolle>
+  </row>
+  <row>
+    <ID>AlramI</ID>
+    <Name>Alram von Kamm</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>AlramII</ID>
+    <Name>Alram von Kamm</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>SpinolaA</ID>
+    <Name>Spinola, Ambrogio</Name>
+    <GND-Nummer>118616226</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>AndreasI</ID>
+    <Name>Andreas </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt Abt</Rolle>
+  </row>
+  <row>
+    <ID>GruberA</ID>
+    <Name>Andreas Gruber</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfarrer</Rolle>
+  </row>
+  <row>
+    <ID>AndreasH</ID>
+    <Name>Andreas Haydecker</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>AndreasK</ID>
+    <Name>Andreas Kirchisner</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>RottenbeckhA</ID>
+    <Name>Andreas Rottenbeckh</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Richter</Rolle>
+  </row>
+  <row>
+    <ID>AnselmA</ID>
+    <Name>Anselm </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>AnselmF</ID>
+    <Name>Anselm </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>ArnoldS</ID>
+    <Name>Arnold, von Solms</Name>
+    <GND-Nummer>1015130275</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>WittenbergA</ID>
+    <Name>Wittenberg, Arvid</Name>
+    <GND-Nummer>122846915</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>Askuin</ID>
+    <Name>Askuin </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Probst</Rolle>
+  </row>
+  <row>
+    <ID>HanauA</ID>
+    <Name>Augustin Hanau</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>AugustinusH</ID>
+    <Name>Augustinus, Aurelius</Name>
+    <GND-Nummer>118505114</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>OxenstiernaA</ID>
+    <Name>Oxenstierna, Axel</Name>
+    <GND-Nummer>118738925</GND-Nummer>
+    <Rolle>Reichskanzler</Rolle>
+  </row>
+  <row>
+    <ID>BartholomäusM</ID>
+    <Name>Madauer, Bartholomäus</Name>
+    <GND-Nummer>136044638</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>Berengar</ID>
+    <Name>Berengar, von Passau</Name>
+    <GND-Nummer>133445356</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>GoderB</ID>
+    <Name>Bernhard Goder zu Ramsdorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>PföttnerB</ID>
+    <Name>Bernhard Pföttner</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Priester Pfarrer</Rolle>
+  </row>
+  <row>
+    <ID>SchaffalitzkyB</ID>
+    <Name>Bernhard Schaffalitzky von Muckadell</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>BernhardC</ID>
+    <Name>Bernhard, von Clairvaux, Heiliger</Name>
+    <GND-Nummer>118509810</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>BernhardSW</ID>
+    <Name>Bernhard von Sachsen-Weimar</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>BertholdG</ID>
+    <Name>Berthold </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>BittegnoA</ID>
+    <Name>Bittegno </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Großkellner</Rolle>
+  </row>
+  <row>
+    <ID>BrunoA</ID>
+    <Name>Bruno von Aldersbach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>CalochusA</ID>
+    <Name>Calochus von Aldersbach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>WrangelCG</ID>
+    <Name>Wrangel, Carl Gustaf</Name>
+    <GND-Nummer>118807935</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>GunzingerC</ID>
+    <Name>Catharina Gunzinger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>BucqouyC</ID>
+    <Name>Buquoy, Karl Bonaventura von</Name>
+    <GND-Nummer>118666061</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>ChristianA</ID>
+    <Name>Christian </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>ChristianB</ID>
+    <Name>Christian </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Bursarius</Rolle>
+  </row>
+  <row>
+    <ID>ChristianI</ID>
+    <Name>Christian I
+
+ 	http://d-nb.info/gnd/119118416</Name>
+    <GND-Nummer>119118416</GND-Nummer>
+    <Rolle>Fürst</Rolle>
+  </row>
+  <row>
+    <ID>ChristianII</ID>
+    <Name>Christian II
+
+http://d-nb.info/gnd/10212809X</Name>
+    <GND-Nummer>10212809X</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>ChristianIV</ID>
+    <Name>Christian IV., Dänemark, König</Name>
+    <GND-Nummer>118676059</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>GrämlichC</ID>
+    <Name>Christoph Grämlich</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Klosterrichter</Rolle>
+  </row>
+  <row>
+    <ID>ChristophBD</ID>
+    <Name>Christoph von Baden-Durlach
+
+http://d-nb.info/gnd/13024838X</Name>
+    <GND-Nummer>13024838X</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>DegenfeldCM</ID>
+    <Name>Degenfeld, Christoph Martin von</Name>
+    <GND-Nummer>121653382</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>FlemingCL</ID>
+    <Name>Fleming, Claes Larsson</Name>
+    <GND-Nummer>1015317499</GND-Nummer>
+    <Rolle>Admiral</Rolle>
+  </row>
+  <row>
+    <ID>SperreutherCD</ID>
+    <Name>Claus Dietrich von Sperreuther</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>RempoldD</ID>
+    <Name>Daniel Adam Rempold</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>DiemoF</ID>
+    <Name>Diemo </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>ZerotinD</ID>
+    <Name>Dietmar von Zerotin</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Hauptmann</Rolle>
+  </row>
+  <row>
+    <ID>GrueberD</ID>
+    <Name>Dionysius Grueber</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GölderD</ID>
+    <Name>Dionysius Gölder</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>KnyphausenD</ID>
+    <Name>Innhausen und Knyphausen, Dodo von</Name>
+    <GND-Nummer>122910311</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>EberhardA</ID>
+    <Name>Eberhard </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>EberhardE</ID>
+    <Name>Eberhard von Eckenheim</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>EberhardJ</ID>
+    <Name>Eberhard von Johannsdorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Domherr</Rolle>
+  </row>
+  <row>
+    <ID>EberhardR</ID>
+    <Name>Eberhard von Regensburg
+
+http://d-nb.info/gnd/118842862</Name>
+    <GND-Nummer>118842862</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>EberhardS</ID>
+    <Name>Eberhard von Sunzingen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>EdmundC</ID>
+    <Name>Edmund, a Cruce</Name>
+    <GND-Nummer>1069604615</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>EgilbertB</ID>
+    <Name>Egilbert, von Bamberg</Name>
+    <GND-Nummer>135902614</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>Egino</ID>
+    <Name>Egino </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>SetermerE</ID>
+    <Name>Egloff Setermer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Administrator</Rolle>
+  </row>
+  <row>
+    <ID>EgonVIII</ID>
+    <Name>Fürstenberg, Egon von</Name>
+    <GND-Nummer>12222132X</GND-Nummer>
+    <Rolle>Reichsgraf</Rolle>
+  </row>
+  <row>
+    <ID>ElisabethL</ID>
+    <Name>Elisabeth Renata von Lothringen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Herzogin</Rolle>
+  </row>
+  <row>
+    <ID>RudericusE</ID>
+    <Name>Emanuel Rudericus</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>EngelmarP</ID>
+    <Name>Engelmar, von Passau</Name>
+    <GND-Nummer>133648117</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>EngelschalkP</ID>
+    <Name>Engelschalk </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Domherr</Rolle>
+  </row>
+  <row>
+    <ID>SlangE</ID>
+    <Name>Erik Slang</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>EbersteinEA</ID>
+    <Name>Eberstein, Ernst Albrecht von</Name>
+    <GND-Nummer>119523507</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>SparrEG</ID>
+    <Name>Ernst Georg von Sparr zu Trampe auf Greifenberg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>EugenIII</ID>
+    <Name>Eugenius III., Papa</Name>
+    <GND-Nummer>118682601</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>SavelliF</ID>
+    <Name>Savelli, Federico di</Name>
+    <GND-Nummer>115775617</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>ZunigaF</ID>
+    <Name>Felix de Zuniga y Guzman</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschallleutnant</Rolle>
+  </row>
+  <row>
+    <ID>FerdinandII</ID>
+    <Name>Ferdinand II., Heiliges Römisches Reich, Kaiser</Name>
+    <GND-Nummer>118532510</GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>FerdinandIII</ID>
+    <Name>Ferdinand III
+
+ 	http://d-nb.info/gnd/118532529</Name>
+    <GND-Nummer>118532529</GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>MächslrainF</ID>
+    <Name>Ferdinand von Mächslrain zu Aham</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>MarazzaniF</ID>
+    <Name>Marazzani, Francesco</Name>
+    <GND-Nummer>130581666</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>BassompierreF</ID>
+    <Name>Francois de Bassompierre
+
+ 	http://d-nb.info/gnd/118507079</Name>
+    <GND-Nummer>118507079</GND-Nummer>
+    <Rolle>Marschall</Rolle>
+  </row>
+  <row>
+    <ID>MercyF</ID>
+    <Name>Mercy, Franz von</Name>
+    <GND-Nummer>124365639</GND-Nummer>
+    <Rolle>Generalfeldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>FranzAlbrechtSL</ID>
+    <Name>Franz Albrecht von Sachsen-Lauenburg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichN</ID>
+    <Name>Friedrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Probst</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichB</ID>
+    <Name>Friedrich I., Heiliges Römisches Reich, Kaiser</Name>
+    <GND-Nummer>118535757</GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichII</ID>
+    <Name>Friedrich II
+
+ 	http://d-nb.info/gnd/118535714</Name>
+    <GND-Nummer>118535714</GND-Nummer>
+    <Rolle>Pfalzgraf</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichA</ID>
+    <Name>Friedrich III
+
+http://d-nb.info/gnd/133584887</Name>
+    <GND-Nummer>133584887</GND-Nummer>
+    <Rolle>Markgraf</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichV</ID>
+    <Name>Friedrich V., Pfalz, Kurfürst</Name>
+    <GND-Nummer>118693522</GND-Nummer>
+    <Rolle>Pfalzgraf König</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichW</ID>
+    <Name>Friedrich der Weise
+
+ 	http://d-nb.info/gnd/11853579X</Name>
+    <GND-Nummer>11853579X</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichL</ID>
+    <Name>Friedrich, von Leuchtenberg</Name>
+    <GND-Nummer>129306401</GND-Nummer>
+    <Rolle>Abt Abt</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichS</ID>
+    <Name>Friedrich von Sachsen-Altenburg
+
+http://d-nb.info/gnd/104262974</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichZ</ID>
+    <Name>Zollern, Friedrich von</Name>
+    <GND-Nummer>104074809</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>FriedrichCasimirO</ID>
+    <Name>Ortenburg, Friedrich Casimir von</Name>
+    <GND-Nummer>136532438</GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>PienzenauFC</ID>
+    <Name>Friedrich Christoph von Pienzenau zu Paumgartten</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>ChanovskyFL</ID>
+    <Name>Friedrich Ludwig Chanovsky von Langendorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>BethlenG</ID>
+    <Name>Gabriel, Siebenbürgen, Fürst, 1580-1629</Name>
+    <GND-Nummer>119108542</GND-Nummer>
+    <Rolle>Fürst</Rolle>
+  </row>
+  <row>
+    <ID>GebhardH</ID>
+    <Name>Gebhard, von Sulzbach und Hirschberg</Name>
+    <GND-Nummer>136972012</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GeorgN</ID>
+    <Name>Georg </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GeorgA</ID>
+    <Name>Georg </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>GeorgO</ID>
+    <Name>Georg </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>AichbergerG</ID>
+    <Name>Georg Aichberger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GeorgIV</ID>
+    <Name>Georg IV
+
+ 	http://d-nb.info/gnd/142712019</Name>
+    <GND-Nummer>142712019</GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>GeorgL</ID>
+    <Name>Georg Lindmair</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>RakocziG</ID>
+    <Name>Georg Rakoczi
+
+ 	http://d-nb.info/gnd/118958089</Name>
+    <GND-Nummer>118958089</GND-Nummer>
+    <Rolle>Fürst</Rolle>
+  </row>
+  <row>
+    <ID>WallnerG</ID>
+    <Name>Georg Wallner</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pflegsverwalter</Rolle>
+  </row>
+  <row>
+    <ID>GeorgR</ID>
+    <Name>Georg der Reiche
+
+http://d-nb.info/gnd/118690434</Name>
+    <GND-Nummer>118690434</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>GeorgBL</ID>
+    <Name>Georg von Braunschweig-Lüneburg
+
+ 	http://d-nb.info/gnd/119137356</Name>
+    <GND-Nummer>119137356</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>GeorgÄ</ID>
+    <Name>Georg Ächter</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>PfuhlGA</ID>
+    <Name>Pfuel, Georg Adam von</Name>
+    <GND-Nummer>120779935</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>TraudischGA</ID>
+    <Name>Georg Adam von Traudisch</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschallleutnant</Rolle>
+  </row>
+  <row>
+    <ID>TaupadelGC</ID>
+    <Name>Taubadel, George Christoph von</Name>
+    <GND-Nummer>103092579</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>GeorgFriedrichBD</ID>
+    <Name>Georg Friedrich von Baden-Durlach
+
+ 	http://d-nb.info/gnd/11871693X</Name>
+    <GND-Nummer>11871693X</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>GeorgFriedrichH</ID>
+    <Name>Georg Friedrich von Hohenlohe-Neuenstein-Weikersheim
+
+ 	http://d-nb.info/gnd/118706292</Name>
+    <GND-Nummer>118706292</GND-Nummer>
+    <Rolle>Offizier</Rolle>
+  </row>
+  <row>
+    <ID>GerhardH</ID>
+    <Name>Gerhard Hörger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>CaraffaG</ID>
+    <Name>Carafa, Girolamo</Name>
+    <GND-Nummer>129688851</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>CordobaG</ID>
+    <Name>FernÃ¡ndez de CÃ³rdoba, Gonzalo</Name>
+    <GND-Nummer>115736271</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>GeleenG</ID>
+    <Name>Geleen und Amsterad, Gottfried Huyn von</Name>
+    <GND-Nummer>116522607</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>GottfriedO</ID>
+    <Name>Gottfried von Otterstet</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>GottfriedW</ID>
+    <Name>Gottfried, von Weißeneck</Name>
+    <GND-Nummer>138055203</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>PappenheimGH</ID>
+    <Name>Pappenheim, Gottfried Heinrich zu</Name>
+    <GND-Nummer>119020572</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>GotthardA</ID>
+    <Name>Gotthard </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>GotthardV</ID>
+    <Name>Gotthard de Viktoria</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Prälat</Rolle>
+  </row>
+  <row>
+    <ID>GottpoldS</ID>
+    <Name>Gottpold von Sattelbogen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GregorXI</ID>
+    <Name>Gregor XI., Papst</Name>
+    <GND-Nummer>11871869X</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>ValenciaG</ID>
+    <Name>Valencia, Gregorio de</Name>
+    <GND-Nummer>119220881</GND-Nummer>
+    <Rolle>Professor</Rolle>
+  </row>
+  <row>
+    <ID>LamboyG</ID>
+    <Name>Lamboy, Wilhelm von</Name>
+    <GND-Nummer>116652853</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>GundakarP</ID>
+    <Name>Gundakar, von Tannberg</Name>
+    <GND-Nummer>1114071072</GND-Nummer>
+    <Rolle>Domdechant</Rolle>
+  </row>
+  <row>
+    <ID>TannbergG</ID>
+    <Name>Gundakar von Tannberg zu Aurolzmünster</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Freiherr</Rolle>
+  </row>
+  <row>
+    <ID>HornG</ID>
+    <Name>Horn, Gustav</Name>
+    <GND-Nummer>121217760</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>GustavIIAdolf</ID>
+    <Name>Gustav Adolf II., Schweden, König</Name>
+    <GND-Nummer>118543733</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>KönigsmarckHC</ID>
+    <Name>Königsmarck, Hans Christoph von</Name>
+    <GND-Nummer>1159073112</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>PuchheimHC</ID>
+    <Name>Hans Christoph von Puchheim</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>FuchsHP</ID>
+    <Name>Fuchs von Bimbach, Hans Philipp</Name>
+    <GND-Nummer>1026798078</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichIII</ID>
+    <Name>Heinrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichV</ID>
+    <Name>Heinrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichII</ID>
+    <Name>Heinrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichI</ID>
+    <Name>Heinrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichIV</ID>
+    <Name>Heinrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichB</ID>
+    <Name>Heinrich Blumentrost</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>DampierreH</ID>
+    <Name>Heinrich Duval, Graf von Dampierre
+
+ 	http://d-nb.info/gnd/115497811</Name>
+    <GND-Nummer>115497811</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichHe</ID>
+    <Name>Heinrich Heppe</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichJ</ID>
+    <Name>Heinrich Jasomirgott
+
+http://d-nb.info/gnd/101037155</Name>
+    <GND-Nummer>101037155</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>JohannsdorferH</ID>
+    <Name>Heinrich Johannsdorfer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Ritter</Rolle>
+  </row>
+  <row>
+    <ID>LiebnuthH</ID>
+    <Name>Heinrich Liebnuth</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Großkellner</Rolle>
+  </row>
+  <row>
+    <ID>TuschlonH</ID>
+    <Name>Heinrich Tuschlon</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichXIV</ID>
+    <Name>Heinrich XIV., Bayern, Herzog</Name>
+    <GND-Nummer>133802701</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichXVI</ID>
+    <Name>Heinrich XVI
+
+http://d-nb.info/gnd/129432466</Name>
+    <GND-Nummer>129432466</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichS</ID>
+    <Name>Heinrich X., Bayern, Herzog</Name>
+    <GND-Nummer>124912974</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichH</ID>
+    <Name>Heinrich von Helpenau</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>MünchhausenH</ID>
+    <Name>Münchhausen, Heinrich von</Name>
+    <GND-Nummer>137862776</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichN</ID>
+    <Name>Heinrich von Niederbayern (unklar ob Heinrich XIV oder XV)</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichP</ID>
+    <Name>Heinrich, von Pfelling</Name>
+    <GND-Nummer>13657159X</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>HeinrichW</ID>
+    <Name>Wittelsbach, Maximilian Heinrich von</Name>
+    <GND-Nummer>189505176</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>ThurnHM</ID>
+    <Name>Thurn, Heinrich Matthias von</Name>
+    <GND-Nummer>12132141X</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>WrangelH</ID>
+    <Name>Wrangel, Helmuth</Name>
+    <GND-Nummer>1018868232</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>HenriR</ID>
+    <Name>Rohan, Henri de</Name>
+    <GND-Nummer>119336839</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>TurenneH</ID>
+    <Name>Turenne, Henri de La Tour D&apos;Auvergne de</Name>
+    <GND-Nummer>118802968</GND-Nummer>
+    <Rolle>Generalmarschall</Rolle>
+  </row>
+  <row>
+    <ID>HerbetoA</ID>
+    <Name>Herbeto von Aldersbach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>HermannM</ID>
+    <Name>Hermann Molitor</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HermannK</ID>
+    <Name>Hermann von Kottenheim</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HeroldA</ID>
+    <Name>Herold </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HerwigP</ID>
+    <Name>Herwig </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Domherr</Rolle>
+  </row>
+  <row>
+    <ID>HieronymusH</ID>
+    <Name>Hölein, Hieronymus</Name>
+    <GND-Nummer>116927097</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>LodronH</ID>
+    <Name>Hieronymus Lodron</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>HieronymusS</ID>
+    <Name>Stauff, Hieronymus</Name>
+    <GND-Nummer>137193742</GND-Nummer>
+    <Rolle>Reichsfreiherr</Rolle>
+  </row>
+  <row>
+    <ID>HugoA</ID>
+    <Name>Hugo </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt Abt Abt</Rolle>
+  </row>
+  <row>
+    <ID>InnozenzIII</ID>
+    <Name>Innozenz III., Papst</Name>
+    <GND-Nummer>118555642</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>InnozenzVI</ID>
+    <Name>Innozenz VI., Papst</Name>
+    <GND-Nummer>118555669</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>InnozenzVIII</ID>
+    <Name>Innocentius VIII., Papa</Name>
+    <GND-Nummer>119130025</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>BornivalJ</ID>
+    <Name>Jacques de Bornival</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>JakobA</ID>
+    <Name>Jakob </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>FuggerJ</ID>
+    <Name>Jakob Fugger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>GollaJ</ID>
+    <Name>Jakob Golla</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Dechant</Rolle>
+  </row>
+  <row>
+    <ID>KellerJ</ID>
+    <Name>Jakob Keller</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Rektor</Rolle>
+  </row>
+  <row>
+    <ID>KingJ</ID>
+    <Name>King, James</Name>
+    <GND-Nummer>1046139231</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>BorsitaJ</ID>
+    <Name>Jaroslav Borsita von Martinic
+
+ 	http://d-nb.info/gnd/116810998</Name>
+    <GND-Nummer>116810998</GND-Nummer>
+    <Rolle>Statthalter</Rolle>
+  </row>
+  <row>
+    <ID>KinskyJP</ID>
+    <Name>Jaroslav Peter Kinsky von Wchinitz und Tettau</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>GuebriantJB</ID>
+    <Name>GuÃ©briant, Jean-Baptiste Budes de</Name>
+    <GND-Nummer>116909226</GND-Nummer>
+    <Rolle>Marschall</Rolle>
+  </row>
+  <row>
+    <ID>MitzlaffJ</ID>
+    <Name>Mitzlaff, Joachim von</Name>
+    <GND-Nummer>1017270996</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>WahlJC</ID>
+    <Name>Wahl, Joachim Christian von</Name>
+    <GND-Nummer>117114189</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>SeckendorffJL</ID>
+    <Name>Seckendorff, Joachim Ludwig von</Name>
+    <GND-Nummer>1018167587</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>DannenbergJO</ID>
+    <Name>Dannenberg, Joachim Otto von</Name>
+    <GND-Nummer>123362806</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>BanerJ</ID>
+    <Name>BanÃ©r, Johan</Name>
+    <GND-Nummer>116048611</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>JohannF</ID>
+    <Name>Johann </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannG</ID>
+    <Name>Johann </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannDe</ID>
+    <Name>Johann Deuser</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannD</ID>
+    <Name>Dietmayr, Johann</Name>
+    <GND-Nummer>133610063</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannIII</ID>
+    <Name>Johann III
+
+ 	http://d-nb.info/gnd/118557742</Name>
+    <GND-Nummer>118557742</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>JohannK</ID>
+    <Name>Johann Kaufmann</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannL</ID>
+    <Name>Johann Landauer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>MeickhlerJ</ID>
+    <Name>Johann Meickhler</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Lösmeister</Rolle>
+  </row>
+  <row>
+    <ID>JohannPl</ID>
+    <Name>Johann Plärer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>JohannP</ID>
+    <Name>Johann Plüetl</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>RiegerJ</ID>
+    <Name>Johann Rieger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Bierbräuer</Rolle>
+  </row>
+  <row>
+    <ID>JohannR</ID>
+    <Name>Johann Riemer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>TillyJ</ID>
+    <Name>Johann Tâ€™Serclaes von Tilly
+
+http://d-nb.info/gnd/117384224</Name>
+    <GND-Nummer>117384224</GND-Nummer>
+    <Rolle>Heerführer</Rolle>
+  </row>
+  <row>
+    <ID>JohannZ</ID>
+    <Name>Johann Zankher</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>AldringenJ</ID>
+    <Name>Aldringen, Johann von</Name>
+    <GND-Nummer>118501763</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>GötzenJ</ID>
+    <Name>Johann von Götzen
+
+http://d-nb.info/gnd/116739355</Name>
+    <GND-Nummer>116739355</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>LinteloJ</ID>
+    <Name>Johann von Lintelo</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Rittmeister</Rolle>
+  </row>
+  <row>
+    <ID>MerodeJ</ID>
+    <Name>Merode, Jean de</Name>
+    <GND-Nummer>11690433X</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>JohannS</ID>
+    <Name>Johann von Spanberg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>WerthJ</ID>
+    <Name>Werth, Johann von</Name>
+    <GND-Nummer>118767240</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>PastoriusJA</ID>
+    <Name>Johann Augustin Pastorius</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>NußdorfJC</ID>
+    <Name>Johann Christoph von Nußdorf zu Tittling</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>PlitterstorfJD</ID>
+    <Name>Johann Daniel von Plitterstorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>JohannErnstI</ID>
+    <Name>Johann Ernst I. Herzog von Sachsen-Weimar</Name>
+    <GND-Nummer>1158917104</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>PenzenauJF</ID>
+    <Name>Johann Friedrich von Penzenau</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Vitzthum</Rolle>
+  </row>
+  <row>
+    <ID>JohannGeorgI</ID>
+    <Name>Johann Georg I
+
+ 	http://d-nb.info/gnd/100029752</Name>
+    <GND-Nummer>100029752</GND-Nummer>
+    <Rolle>Kurfürst</Rolle>
+  </row>
+  <row>
+    <ID>WessacherJG</ID>
+    <Name>Johann Georg Wessacher</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfleger</Rolle>
+  </row>
+  <row>
+    <ID>JohannGeorgB</ID>
+    <Name>Johann Georg, Brandenburg, Markgraf</Name>
+    <GND-Nummer>101093713</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>TannbergJH</ID>
+    <Name>Johann Heinrich von Tannberg zu Aurolzmünster</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Freiherr</Rolle>
+  </row>
+  <row>
+    <ID>ErlachJL</ID>
+    <Name>Erlach, Johann Ludwig von</Name>
+    <GND-Nummer>118685201</GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>JohannMartinC</ID>
+    <Name>Johann Martin </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>KagerJM</ID>
+    <Name>Kager, Johann Matthias</Name>
+    <GND-Nummer>118559273</GND-Nummer>
+    <Rolle>Maler</Rolle>
+  </row>
+  <row>
+    <ID>CratzJP</ID>
+    <Name>Kratz zu Scharffenstein, Johann Philipp</Name>
+    <GND-Nummer>137743254</GND-Nummer>
+    <Rolle>Feldmarschall</Rolle>
+  </row>
+  <row>
+    <ID>SalmJP</ID>
+    <Name>Johann Philipp von Salm-Kyrburg-Mörchingen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>BredaJR</ID>
+    <Name>Johann Rudolf von Breda</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>LungJS</ID>
+    <Name>Johann Sebastian Lung zu Tandern</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfleger</Rolle>
+  </row>
+  <row>
+    <ID>RiedererJS</ID>
+    <Name>Johann Siegmund Riederer</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfleger</Rolle>
+  </row>
+  <row>
+    <ID>MislikJS</ID>
+    <Name>Johann Sigismund Mislik</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>GoderJW</ID>
+    <Name>Johann Wolf Goder zu Walchsing</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>GordonJ</ID>
+    <Name>John Gordon</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>GodJ</ID>
+    <Name>Joseph God</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>RantzauJ</ID>
+    <Name>Rantzau, Josias de</Name>
+    <GND-Nummer>119303973</GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>JuliusII</ID>
+    <Name>Julius II., Papst</Name>
+    <GND-Nummer>118714090</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>KarlXGustav</ID>
+    <Name>Karl Gustav X
+
+http://d-nb.info/gnd/118720945</Name>
+    <GND-Nummer>118720945</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>KarlLudwigP</ID>
+    <Name>Karl Ludwig, Pfalz, Kurfürst</Name>
+    <GND-Nummer>118560182</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>KarlMagnusBD</ID>
+    <Name>Karl Magnus von Baden-Durlach
+
+ 	http://d-nb.info/gnd/1017917922</Name>
+    <GND-Nummer>1017917922</GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>MortaigneKK</ID>
+    <Name>Mortaigne de Potelles, Kaspar Kornelius</Name>
+    <GND-Nummer>137571186</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>KlemensIII</ID>
+    <Name>Clemens III., Papa</Name>
+    <GND-Nummer>118563106</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>KonradII</ID>
+    <Name>Konrad </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>KonradF</ID>
+    <Name>Konrad </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>KonradIII</ID>
+    <Name>Konrad III
+
+http://d-nb.info/gnd/118713892</Name>
+    <GND-Nummer>118713892</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>KonradS</ID>
+    <Name>Konrad Snabel</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>KonradL</ID>
+    <Name>Konrad, von Lupburg</Name>
+    <GND-Nummer>129307416</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>KaggL</ID>
+    <Name>Kagg, Lars</Name>
+    <GND-Nummer>1016433255</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>LaurentiusF</ID>
+    <Name>Laurentius </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>TorstenssonL</ID>
+    <Name>Torstenson, Lennart</Name>
+    <GND-Nummer>117407186</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>LeopoldIII</ID>
+    <Name>Leopold III., Österreich, Markgraf</Name>
+    <GND-Nummer>118571850</GND-Nummer>
+    <Rolle>Markgraf</Rolle>
+  </row>
+  <row>
+    <ID>LeopoldV</ID>
+    <Name>Leopold V
+
+http://d-nb.info/gnd/137082118</Name>
+    <GND-Nummer>137082118</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>LeopoldB</ID>
+    <Name>Leopold von Bayern
+
+http://d-nb.info/gnd/136708021</Name>
+    <GND-Nummer>136708021</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>LeopoldWilhelmÖ</ID>
+    <Name>Leopold Wilhelm, Österreich, Erzherzog</Name>
+    <GND-Nummer>118727664</GND-Nummer>
+    <Rolle>Erzherzog</Rolle>
+  </row>
+  <row>
+    <ID>LeutoldK</ID>
+    <Name>Leutold von Kuenring-Dürnstein
+
+ 	http://d-nb.info/gnd/136630979</Name>
+    <GND-Nummer>136630979</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>LiebhartM</ID>
+    <Name>Liebhart Milt</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>HofkirchenL</ID>
+    <Name>Lorenz Hofkirchen</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>LotharIII</ID>
+    <Name>Lothar III., Heiliges Römisches Reich, Kaiser</Name>
+    <GND-Nummer>118574515</GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>LouisII</ID>
+    <Name>Louis II de Bourbon
+
+http://d-nb.info/gnd/119292203</Name>
+    <GND-Nummer>119292203</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>LudwigA</ID>
+    <Name>Ludwig </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>LudwigIX</ID>
+    <Name>Ludwig IX., Bayern, Herzog</Name>
+    <GND-Nummer>119398613</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>LudwigB</ID>
+    <Name>Ludwig der Bayer
+
+ 	http://d-nb.info/gnd/118574957</Name>
+    <GND-Nummer>118574957</GND-Nummer>
+    <Rolle>König Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>LudwigK</ID>
+    <Name>Ludwig der Kelheimer
+
+ 	http://d-nb.info/gnd/100952429</Name>
+    <GND-Nummer>100952429</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>LudwigS</ID>
+    <Name>Ludwig der Strenge
+
+ 	http://d-nb.info/gnd/119431386</Name>
+    <GND-Nummer>119431386</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>RegnaltL</ID>
+    <Name>Lukas Regnalt</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>ManegoldB</ID>
+    <Name>Manegold, von Berg</Name>
+    <GND-Nummer>130390666</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>MariaAnnaS</ID>
+    <Name>Maria Anna von Spanien
+
+ 	http://d-nb.info/gnd/120186845</Name>
+    <GND-Nummer>120186845</GND-Nummer>
+    <Rolle>Kaiserin</Rolle>
+  </row>
+  <row>
+    <ID>PföttnerM</ID>
+    <Name>Markward Pföttner</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfleger</Rolle>
+  </row>
+  <row>
+    <ID>LutherM</ID>
+    <Name>Luther, Martin</Name>
+    <GND-Nummer>118575449</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>LindenM</ID>
+    <Name>Martin von der Linden zu Göttersdorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>MatthiasK</ID>
+    <Name>Matthias 
+
+ 	http://d-nb.info/gnd/119400839</Name>
+    <GND-Nummer>119400839</GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>MatthiasC</ID>
+    <Name>Matthias Corvinus
+
+ 	http://d-nb.info/gnd/118579029</Name>
+    <GND-Nummer>118579029</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>GallasM</ID>
+    <Name>Gallas, Matthias</Name>
+    <GND-Nummer>118537288</GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>MatthäusG</ID>
+    <Name>Matthäus Gschwendt</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>MaximilianI</ID>
+    <Name>Maximilian I., Bayern, Kurfürst</Name>
+    <GND-Nummer>118579355</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>HatzfeldtM</ID>
+    <Name>Hatzfeldt, Melchior von</Name>
+    <GND-Nummer>118982508</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>MichaelN</ID>
+    <Name>Michael </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Mönch</Rolle>
+  </row>
+  <row>
+    <ID>MichaelV</ID>
+    <Name>Michael </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Probst</Rolle>
+  </row>
+  <row>
+    <ID>MichaelK</ID>
+    <Name>Michael Kirchberger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>ObentrautM</ID>
+    <Name>Obentraut, Hans Michael</Name>
+    <GND-Nummer>11858913X</GND-Nummer>
+    <Rolle>Generalleutnant</Rolle>
+  </row>
+  <row>
+    <ID>SalmannsweilerN</ID>
+    <Name>N von Salmannsweiler</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>NikolausI</ID>
+    <Name>Nikolaus </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>NikolausII</ID>
+    <Name>Nikolaus </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>EsterhazyN</ID>
+    <Name>Nikolaus Esterhazy
+
+ 	http://d-nb.info/gnd/119061538</Name>
+    <GND-Nummer>119061538</GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>HörgerN</ID>
+    <Name>Nikolaus Hörger Hörman</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Professor philosophiae</Rolle>
+  </row>
+  <row>
+    <ID>PiccolominiO</ID>
+    <Name>Otavio Piccolomini
+
+http://d-nb.info/gnd/118594214</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>FränkingO</ID>
+    <Name>Ottheinrich von Fränking zu Adldorf</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Freiherr</Rolle>
+  </row>
+  <row>
+    <ID>OttoF</ID>
+    <Name>Otto </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>OttoP</ID>
+    <Name>Otto </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Prior</Rolle>
+  </row>
+  <row>
+    <ID>OttoII</ID>
+    <Name>Otto II
+
+ 	http://d-nb.info/gnd/119486849</Name>
+    <GND-Nummer>119486849</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>OttoIII</ID>
+    <Name>Otto III
+
+ 	http://d-nb.info/gnd/137964218</Name>
+    <GND-Nummer>137964218</GND-Nummer>
+    <Rolle>Herzog König</Rolle>
+  </row>
+  <row>
+    <ID>OttoIV</ID>
+    <Name>Otto IV
+
+ 	http://d-nb.info/gnd/118590774</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Kaiser</Rolle>
+  </row>
+  <row>
+    <ID>OttoJ</ID>
+    <Name>Otto Jäger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>OttoFr</ID>
+    <Name>Otto der Fröhliche
+
+ 	http://d-nb.info/gnd/103115099</Name>
+    <GND-Nummer>103115099</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>OttoA</ID>
+    <Name>Otto II., Bamberg, Bischof</Name>
+    <GND-Nummer>121465497</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>OttoB</ID>
+    <Name>Otto I., Bamberg, Bischof</Name>
+    <GND-Nummer>118738755</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>MoschenbachP</ID>
+    <Name>Pankraz Moschenbach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Dechant</Rolle>
+  </row>
+  <row>
+    <ID>PaulH</ID>
+    <Name>Paul Herzmann</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>ReisserP</ID>
+    <Name>Paul Reisser</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Mönch</Rolle>
+  </row>
+  <row>
+    <ID>PaulV</ID>
+    <Name>Paul V
+
+ 	http://d-nb.info/gnd/118739530</Name>
+    <GND-Nummer>118739530</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>MelanderP</ID>
+    <Name>Holzappel, Peter Melander zu</Name>
+    <GND-Nummer>118774816</GND-Nummer>
+    <Rolle>Feldherr</Rolle>
+  </row>
+  <row>
+    <ID>WegelinP</ID>
+    <Name>Peter Wegelin</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Visitator</Rolle>
+  </row>
+  <row>
+    <ID>MansfeldPE</ID>
+    <Name>Mansfeld, Ernst von</Name>
+    <GND-Nummer>119338882</GND-Nummer>
+    <Rolle>Kriegsunternehmer</Rolle>
+  </row>
+  <row>
+    <ID>PetrusP</ID>
+    <Name>Petrus, von Passau</Name>
+    <GND-Nummer>136582990</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>FabriciusP</ID>
+    <Name>Philipp Fabricius</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Kanzleisekretär</Rolle>
+  </row>
+  <row>
+    <ID>PhilippHK</ID>
+    <Name>Philipp von Hessen-Kassel</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>PhilippS</ID>
+    <Name>Philipp von Schwaben
+
+ 	http://d-nb.info/gnd/118593854</Name>
+    <GND-Nummer>118593854</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>RapotoO</ID>
+    <Name>Rapoto, von Ortenberg</Name>
+    <GND-Nummer>138775834</GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>RatoldE</ID>
+    <Name>Ratold von Eckenheim</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>ReginbertH</ID>
+    <Name>Reginbert, von Hagenau</Name>
+    <GND-Nummer>139018778</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>ReginmarP</ID>
+    <Name>Reginmar</Name>
+    <GND-Nummer>139040676</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>ReinhardP</ID>
+    <Name>Reinhard </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfarrer</Rolle>
+  </row>
+  <row>
+    <ID>RosenR</ID>
+    <Name>Rosen, Reinhold von</Name>
+    <GND-Nummer>123023386</GND-Nummer>
+    <Rolle>Generalmajor</Rolle>
+  </row>
+  <row>
+    <ID>RudbertA</ID>
+    <Name>Rudbert von Aldersbach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>BirkenfeldR</ID>
+    <Name>Rudolf von Birkenfeld</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>RudolfMaximilianSL</ID>
+    <Name>Rudolf Maximilian von Sachsen-Lauenburg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>RuprechtC</ID>
+    <Name>Ruprecht, Pfalz, Prinz</Name>
+    <GND-Nummer>118791621</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>RuprechtP</ID>
+    <Name>Ruprecht, Bayern-Landshut, Herzog</Name>
+    <GND-Nummer>100659381</GND-Nummer>
+    <Rolle>Pfalzgraf</Rolle>
+  </row>
+  <row>
+    <ID>RüdigerB</ID>
+    <Name>Rüdiger, von Bergheim</Name>
+    <GND-Nummer>136905412</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>KhäpplerS</ID>
+    <Name>Sebastian Khäppler</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Mönch</Rolle>
+  </row>
+  <row>
+    <ID>GodS</ID>
+    <Name>Seifried God</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>SiegfriedA</ID>
+    <Name>Siegfried </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>MinichhauserS</ID>
+    <Name>Siegmund Minichhauser Münich</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>SimonA</ID>
+    <Name>Simon </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>SixtusIV</ID>
+    <Name>Sixtus IV., Papst</Name>
+    <GND-Nummer>118797476</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>StephanN1</ID>
+    <Name>Stephan </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Mönch</Rolle>
+  </row>
+  <row>
+    <ID>StephanN2</ID>
+    <Name>Stephan </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Mönch</Rolle>
+  </row>
+  <row>
+    <ID>StephanI</ID>
+    <Name>Stephan I
+
+http://d-nb.info/gnd/136195091</Name>
+    <GND-Nummer>136195091</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>StephanII</ID>
+    <Name>Stephan II
+
+http://d-nb.info/gnd/13687570X</Name>
+    <GND-Nummer>13687570X</GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>PalffyS</ID>
+    <Name>Stephan Palffy von Erdöd</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>TheodorichA</ID>
+    <Name>Theodorich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt Abt</Rolle>
+  </row>
+  <row>
+    <ID>StalhandskeT</ID>
+    <Name>Torsten Stalhandske
+
+http://d-nb.info/gnd/119479850</Name>
+    <GND-Nummer>119479850</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+  <row>
+    <ID>UlrichH</ID>
+    <Name>Ulrich </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Pfarrer</Rolle>
+  </row>
+  <row>
+    <ID>EckerU</ID>
+    <Name>Ulrich Ecker von Kapfing</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>UlrichS</ID>
+    <Name>Ulrich der Stetinger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>UlrichN</ID>
+    <Name>Ulrich, von Nußdorf</Name>
+    <GND-Nummer>137656890</GND-Nummer>
+    <Rolle>Bischof</Rolle>
+  </row>
+  <row>
+    <ID>UrbanV</ID>
+    <Name>Urban V., Papst</Name>
+    <GND-Nummer>118803514</GND-Nummer>
+    <Rolle>Papst</Rolle>
+  </row>
+  <row>
+    <ID>PuechbergU</ID>
+    <Name>Urban von Puechberg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>VitusA</ID>
+    <Name>Vitus </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>VolradW</ID>
+    <Name>Volrad </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>WaltherF</ID>
+    <Name>Walther </Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>WelfVI</ID>
+    <Name>Welf VI</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Markgraf</Rolle>
+  </row>
+  <row>
+    <ID>ZahradeckyW</ID>
+    <Name>Wenzel Zahradecky ze Zahradek</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Feldmarschallleutnant</Rolle>
+  </row>
+  <row>
+    <ID>HundtW</ID>
+    <Name>Wigulo Hundt zu Steinach</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>FraunbergerW</ID>
+    <Name>Wilhelm Fraunberger</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>HeukingW</ID>
+    <Name>Wilhelm Heuking</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Oberst</Rolle>
+  </row>
+  <row>
+    <ID>KinskyW</ID>
+    <Name>Kinsky, Wilhelm von</Name>
+    <GND-Nummer>118777203</GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>SlavataW</ID>
+    <Name>Slavata z Chlumu a KoÅ¡umberka, VilÃ©m</Name>
+    <GND-Nummer>1018376615</GND-Nummer>
+    <Rolle>Oberstkanzler</Rolle>
+  </row>
+  <row>
+    <ID>WilhelmSW</ID>
+    <Name>Wilhelm von Sachsen-Weimar</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Herzog</Rolle>
+  </row>
+  <row>
+    <ID>WladislawIV</ID>
+    <Name>Wladislaw IV
+
+ 	http://d-nb.info/gnd/118834657</Name>
+    <GND-Nummer>118834657</GND-Nummer>
+    <Rolle>König</Rolle>
+  </row>
+  <row>
+    <ID>PaumgartenWC</ID>
+    <Name>Wolf Christoph von Paumgarten zu Frauenstein</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>ClosenWF</ID>
+    <Name>Wolf Friedrich von Closen zu Haidenburg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>unknown</Rolle>
+  </row>
+  <row>
+    <ID>WolfgangM</ID>
+    <Name>Marius, Wolfgang</Name>
+    <GND-Nummer>100373682</GND-Nummer>
+    <Rolle>Abt</Rolle>
+  </row>
+  <row>
+    <ID>WolfgangO</ID>
+    <Name>Wolfgang von Ortenburg</Name>
+    <GND-Nummer></GND-Nummer>
+    <Rolle>Graf</Rolle>
+  </row>
+  <row>
+    <ID>BaudissinWH</ID>
+    <Name>Baudissin, Wolf Heinrich von</Name>
+    <GND-Nummer>132312115</GND-Nummer>
+    <Rolle>General</Rolle>
+  </row>
+</root>
